@@ -23,3 +23,8 @@ print("Added this line from User-2 account")
 B = 700
 C = 900
 
+def appriciation():
+    for n in range(0,B):
+        print("good course.")
+
+appriciation()
